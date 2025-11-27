@@ -1,8 +1,6 @@
-# Whale's Block — Whitepaper
+# WhalesBlock — Whitepaper Draft
 
-Benvenuto nel whitepaper ufficiale del progetto Whale's Block.
-
-## 📑 Sezioni
+## 📑 Sections
 
 - [1. Vision & Concept](1-Vision-and-Concept.md)
 - [2. The Ecosystem](2-The-Ecosystem.md)
