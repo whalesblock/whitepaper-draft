@@ -1,4 +1,4 @@
-# WhalesBlock — Whitepaper Draft
+# 🐳 WHALESBLOCK — Whitepaper Draft
 
 ## 📑 Sections
 
